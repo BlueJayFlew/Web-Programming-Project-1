@@ -8,5 +8,5 @@ Chris Tran
 Chief Programmer/ Tester/User
 
 Michelle Kim
-Programmer/Designer/ Tester
+Programmer/Designer/ Tester 
 
